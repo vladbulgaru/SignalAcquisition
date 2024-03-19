@@ -1,0 +1,20 @@
+[OnFreqExit]
+Class="Function"
+Prototype="int OnFreqExit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.c:20:17"
+
+[OnSpectruBtt]
+Class="Function"
+Prototype="int OnSpectruBtt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.c:38:17"
+
+[OnFilterButtonCB]
+Class="Function"
+Prototype="int OnFilterButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.c:164:17"
+
+[OnFreqSave]
+Class="Function"
+Prototype="int OnFreqSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.c:295:17"
+

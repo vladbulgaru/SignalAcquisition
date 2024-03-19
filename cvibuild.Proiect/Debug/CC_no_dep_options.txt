@@ -1,0 +1,1 @@
+-force-include-file "Frecv.c";"d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.c" -force-include-file "Frecv.h";"d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Frecv.h" -force-include-file "Proiect.c";"d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c" -force-include-file "Proiect.h";"d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.h" 

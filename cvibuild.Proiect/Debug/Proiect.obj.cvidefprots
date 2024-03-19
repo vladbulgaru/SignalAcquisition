@@ -1,0 +1,55 @@
+[ordinI]
+Class="Function"
+Prototype="double *ordinI(double alpha);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:39:9"
+
+[mediere]
+Class="Function"
+Prototype="double *mediere(int n);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:48:9"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:73:5"
+
+[OnExit]
+Class="Function"
+Prototype="int OnExit(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:91:17"
+
+[OnLoadBtt]
+Class="Function"
+Prototype="int OnLoadBtt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:110:17"
+
+[OnSelelectFilter]
+Class="Function"
+Prototype="int OnSelelectFilter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:196:17"
+
+[OnApplyBtt]
+Class="Function"
+Prototype="int OnApplyBtt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:232:17"
+
+[OnChangeSec]
+Class="Function"
+Prototype="int OnChangeSec(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:250:17"
+
+[OnGenerareAnvelopa]
+Class="Function"
+Prototype="int OnGenerareAnvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:334:17"
+
+[OnSaveImg]
+Class="Function"
+Prototype="int OnSaveImg(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:360:17"
+
+[OnPanelSwitch]
+Class="Function"
+Prototype="int OnPanelSwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\An 3\APD-P\Bulgaru_Vlad_15WAV_data\Proiect.c:428:17"
+

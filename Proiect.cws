@@ -1,0 +1,209 @@
+[Workspace Header]
+Version = 2000
+Pathname = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Proiect.prj"
+Drag Bar Left = 399
+Window Top = 169
+Window Left = -628
+Window Bottom = 844
+Window Right = 90
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 7
+Window Confinement Region Enabled = True
+MainColumnWidth = 382
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 2000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.uir"
+File Type = "User Interface Resource"
+Disk Date = 3788145495
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Height = 401
+Window Width = 602
+Window Z-Order = 3
+
+[File 0002]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.c"
+File Type = "CSource"
+Disk Date = 3788106953
+In Projects = "1,"
+Source Window State = "1,52,52,52,16,27,16,0,3,0,0,0,0,0,0,0,87,0,52,27,401,602,1,0,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 2
+
+[File 0003]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.h"
+File Type = "Include"
+Disk Date = 3788145385
+In Projects = "1,"
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,326,602,1,0,"
+Window Top = 126
+Window Left = 58
+Window Z-Order = 4
+
+[File 0004]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Frecv.h"
+File Type = "Include"
+Disk Date = 3788089617
+In Projects = "1,"
+Source Window State = "1,4,4,4,12,12,12,0,0,0,0,0,0,0,0,0,0,0,4,12,401,602,1,0,"
+Window Top = 188
+Window Left = 90
+Window Z-Order = 7
+
+[File 0005]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Frecv.c"
+File Type = "CSource"
+Disk Date = 3788149422
+In Projects = "1,"
+Source Window State = "1,262,262,262,0,0,0,0,0,0,0,0,0,0,0,0,250,0,262,0,400,600,1,0,"
+Window Top = 31
+Window Z-Order = 1
+
+[File 0006]
+Path = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/anvelopa.py"
+File Type = "Unknown"
+Disk Date = 3782486020
+In Projects = "1,"
+
+[File 0007]
+Path = "/c/Program Files (x86)/National Instruments/CVI2020/include/advanlys.h"
+File Type = "Include"
+Disk Date = 3679674592
+In Projects = ""
+Source Window State = "1,1251,1251,1251,27,34,27,0,3,0,0,0,0,0,0,0,1237,0,1251,34,326,602,1,0,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 6
+
+[Tab Order]
+Tab 0001 = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.uir"
+Tab 0002 = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Frecv.h"
+Tab 0003 = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.c"
+Tab 0004 = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Frecv.c"
+Tab 0005 = "/c/Program Files (x86)/National Instruments/CVI2020/include/advanlys.h"
+Tab 0006 = "/d/Facultate/An 3/APD-P/Bulgaru_Vlad_15WAV_data/Proiect.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
