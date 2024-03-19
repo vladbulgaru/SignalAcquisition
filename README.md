@@ -1,1 +1,3 @@
 # SignalAcquisition
+
+This project performs data analysis on an audio signal in the time and frequency domains. Time domain analysis involves calculating minimum, maximum, mean, minimum index, maximum index, variance, median, and the number of zero crossings. Time domain analysis also includes signal filtering through averaging (on 16 or 32 elements) and first-order filtering with alpha in the range (0,1), as well as applying the signal envelope. Frequency domain analysis consists of representing the spectrum and applying two types of windows: Blackman and Hamming, and two types of filters: Kaiser high-pass and Chebyshev I low-pass.
